@@ -1,0 +1,716 @@
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\source\repos\GeneradorRelacionesCobroMasivas\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\jvargas\Documents\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\Documents\My Web Sites\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionesCobro\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvargas\Desktop\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\ppacheco\Documents\1 DANIELA\RelacionCobroMasActualizada\RelacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvvargas\Desktop\Relaciones de cobro\relacionesCobro\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\jvvargas\Desktop\RDCNuevoFormato\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll.config
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\GeneradorRelacionesCobroMasivas.pdb
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.exe.config
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csc.rsp
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.exe.config
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\csi.rsp
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Buffers.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Memory.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.exe.config
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\vbc.rsp
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Rotativa.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\WebGrease.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Newtonsoft.Json.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Helpers.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Mvc.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Optimization.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.Razor.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\System.Web.WebPages.Razor.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\Antlr3.Runtime.pdb
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\zxing.presentation.xml
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Helpers.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.Razor.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.AssemblyReference.cache
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CoreCompileInputs.cache
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.csproj.CopyComplete
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.dll
+C:\Users\adesarrollo\Desktop\Nueva carpeta\RDCNuevoFormato\GeneradorRelacionesCobroMasivas\obj\Debug\GeneradorRelacionesCobroMasivas.pdb

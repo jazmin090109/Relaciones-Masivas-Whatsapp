@@ -1,0 +1,122 @@
+﻿@{
+    ViewBag.Title = "Generador de relaciones";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h1 class="text-danger">Generador Masivo Individual</h1>
+        </div>
+        <div class="col-12 mt-5">
+            <table class="table table-bordered">
+                <tr class="text-center">
+                    <th>
+                        SUCURSAL
+                    </th>
+                    <th>
+                        A
+                    </th>
+                    <th>
+                        B
+                    </th>
+                    <th>
+                        C
+                    </th>
+                    <th>
+                        D
+                    </th>
+                    <th>
+                        VACANTE
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.NOMBRE_SUCURSAL
+                        </td>
+                        <td class="text-center">
+                            @if (item.A == 1)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-A" name="coordinacion">
+                                    <label class="form-check-label" for="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-A">
+                                        <img src="~/Images/comprobado.png" id="ok-@item.ID_SUCURSAL-A" class="hidden" />
+                                    </label>
+                                </div>
+                            }
+                        </td>
+                        <td class="text-center">
+                            @if (item.B == 1)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-B" name="coordinacion">
+                                    <label class="form-check-label" for="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-B">
+                                        <img src="~/Images/comprobado.png" id="ok-@item.ID_SUCURSAL-B" class="hidden" />
+                                    </label>
+                                </div>
+                            }
+                        </td>
+                        <td class="text-center">
+                            @if (item.C == 1)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-C" name="coordinacion">
+                                    <label class="form-check-label" for="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-C">
+                                        <img src="~/Images/comprobado.png" id="ok-@item.ID_SUCURSAL-C" class="hidden" />
+                                    </label>
+                                </div>
+                            }
+                        </td>
+                        <td class="text-center">
+                            @if (item.D == 1)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-D" name="coordinacion">
+                                    <label class="form-check-label" for="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-D">
+                                        <img src="~/Images/comprobado.png" id="ok-@item.ID_SUCURSAL-D" class="hidden" />
+                                    </label>
+                                </div>
+                            }
+                        </td>
+                        <td class="text-center">
+                            @if (item.CORD_VACANTE == 1)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-V" name="coordinacion">
+                                    <label class="form-check-label" for="@item.ID_SUCURSAL-@item.NOMBRE_SUCURSAL-V">
+                                        <img src="~/Images/comprobado.png" id="ok-@item.ID_SUCURSAL-V" class="hidden" />
+                                    </label>
+                                </div>
+                            }
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+        <div class="col-12">
+            <div class="row justify-content-center">
+                <div class="col-6 text-center">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="todas" name="TodasCoordinacion" onchange="GenerarTodas()">
+                        <label class="form-check-label" for="todas">
+                            Generar todas las Sucursales
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 mt-3">
+            <div class="row justify-content-center">
+                <div class="col-4 ">
+                    <button type="button" class="btn btn-primary btn-lg btn-block" onclick="GenerarRelaciones()" id="btn-generar-relaciones">Generar Relaciones</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/Scripts/Sistema/RelacionesCobro/RelacionCobro.js"></script>
+}

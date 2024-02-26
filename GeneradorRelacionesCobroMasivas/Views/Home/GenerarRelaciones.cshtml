@@ -1,0 +1,20 @@
+﻿@model List<CREC_MVC.Models.Entidades.RelacionesCobro.ERelaciones>
+<html >
+<head>
+    <title>Relación de cobro</title>
+    <link href="~/Content/RelacionCobroPG/RelacionCobro.css?v=1.1.2" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+
+
+    @foreach (var item in Model)
+    {
+        @Html.Action("RelacionCobro", "Home", new { ID_PRESTAMO = item.ID_ASOCIADA })
+        <div class="saltopagina pb-5"></div>
+        
+    }
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

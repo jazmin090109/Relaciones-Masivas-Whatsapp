@@ -1,0 +1,637 @@
+﻿
+
+<html>
+<head>
+    <title>Relación de cobro</title>
+    <link href="~/Content/RelacionCobroPG/RelacionCobro.css?v=1.1.2" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div>
+        <div class="row">
+            <table width="100%">
+                <tr>
+                    <td class="text-center">
+                        <img src="~/Images/PG/Logo_PrestaGana.png" width="200" />
+                    </td>
+                    <td>
+                        <table width="100%">
+                            <tr class="bg_verde text-center">
+                                <td colspan="4" class="align-middle" height="50px"><h4>RELACIÓN DE COBRO QUINCENAL</h4></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" style="padding:10px"></td>
+                            </tr>
+                            <tr>
+                                <td width="40%"></td>
+                                <td class="text-right"><b>FECHAS:</b></td>
+                                <td class="text-center tdCampos">@Model.HOY_LETRAS</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-12">
+                <table width="100%">
+                    <tr>
+                        <td class="titleRosa" colspan="2">DATOS DE LA DISTRIBUIDORA</td>
+                        <td rowspan="5" class="text-center"><img src="~/Images/PG/Niveles/Nivel_Prestagana.jpg" width="180px" /></td>
+                    </tr>
+                    <tr>
+                        <td width="40%" class="tdTablas br" >
+                            <div class="dvTexto">Nombre</div>
+                            <div class="rsTexto">@Model.NOMBRE_COMPLETO</div>
+                        </td>
+                        <td class="tdTablas">
+                            <div class="dvTexto">Número</div>
+                            <div class="rsTexto">@Model.ID_PRESTAMO</div>
+                        </td>
+
+                    </tr>
+                    <tr class="bt">
+                        <td width="60%" class="tdTablas br">
+                            <div class="dvTexto">Vencimiento de Línea</div>
+                            <div class="rsTexto">@Model.ULTIMO_PAGO</div>
+                        </td>
+                        <td class="tdTablas">
+                            <div class="dvTexto">Promedio de colocación mensual</div>
+                            <div class="rsTexto">$ @String.Format("{0:n}", float.Parse(Model.PROMEDIO))</div>
+                        </td>
+                    </tr>
+                    <tr class="bt">
+                        <td width="60%" class="tdTablas br">
+                            <div class="dvTexto">
+                                Fecha de activación de la Distribuidora
+                            </div>
+                            <div class="rsTexto">
+                                @Model.FECHA_ACTIVADO
+                            </div>
+                        </td>
+                        <td class="tdTablas">
+                            <div class="dvTexto">Fecha límite de pago</div>
+                            <div class="rsTexto">
+                                @Model.FECHA_LIMIT
+                            </div>
+                        </td>
+                    </tr>
+                    <tr class="bt">
+                        <td width="60%" class="tdTablas br">
+                            <div class="dvTexto">
+                                Sucursal
+                            </div>
+                            <div class="rsTexto">
+                                @Model.NOMBRE_SUCURSAL
+                            </div>
+                        </td>
+                        <td class="tdTablas">
+                            <div class="dvTexto">Fecha de corte</div>
+                            <div class="rsTexto">
+                                @Convert.ToDateTime(Model.FECHACORTE).ToString("dd/MM/yyyy")
+                            </div>
+                        </td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-12">
+                <table width="100%" class="text-center">
+                    <tr class="CapVerde">
+                        <td>Producto</td>
+                        <td>Monto Máximo de Línea</td>
+                        <td>Monto de Línea Activo</td>
+                        <td>Saldo Dispuesto</td>
+                        <td>Monto Disponible</td>
+                    </tr>
+                    <tr class="trTablas">
+                        <td class="br-white">PrestaGana</td>
+                        <td class="br-white">$@String.Format("{0:n}", float.Parse(Model.MONTO_LINEA))</td>
+                        <td class="br-white">$@String.Format("{0:n}", float.Parse(Model.MONTO_ACTIVO)) </td>
+                        <td class="br-white">$@String.Format("{0:n}", float.Parse(Model.SALDO_DEUDOR))</td>
+                        <td>$@String.Format("{0:n}", float.Parse(Model.MONTO_DISPONIBLE))</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-12">
+                <table width="100%">
+                    <tr class="titleRosa">
+                        <td colspan="10">DETALLES DE CLIENTES FINALES</td>
+                    </tr>
+                    <tr class="bg_verde font-9 text-center">
+                        <td><b>Número</b></td>
+                        <td width="35%"><b>Nombre del cliente final</b></td>
+                        <td width="10%"><b>Vale folio</b></td>
+                        <td><b>Fecha de activación</b></td>
+                        <td><b>Número de Pagos</b></td>
+                        <td><b>Monto de Préstamo</b></td>
+                        <td><b>Saldo actual</b></td>
+                        <td><b>Costo Seguro</b></td>
+                        <td><b>Monto de Pago</b></td>
+                        <td width="10%">Firma<b></b></td>
+                    </tr>
+
+
+                    @if (ViewBag.ClientesFinales.Count > 0)
+                    {
+                        foreach (var item in ViewBag.ClientesFinales)
+                        {
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%">@item.ID_PRESTAMO </td>
+                                <td class="br-white">@item.NOMBRE</td>
+                                <td class="br-white">@item.FOLIO </td>
+                                <td class="br-white">@item.FECHA_ACTIVADO</td>
+                                <td class="br-white">@item.NUM_PAGO/@item.NUM_PAGOS</td>
+                                <td class="br-white">$@String.Format("{0:n}", float.Parse(item.MONTO_PRESTAMO))</td>
+                                <td class="br-white">$@String.Format("{0:n}", item.SALDO_ACTUAL)</td>
+                                <td class="br-white">$@String.Format("{0:n}", float.Parse(item.MONTO_SEGURO))</td>
+                                <td class="br-white">$@String.Format("{0:n}", float.Parse(item.MONTO_PAGO))</td>
+                                <td width="10%"></td>
+                            </tr>
+ }
+                        if (ViewBag.ClientesFinales.Count < 5)
+                        {
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+ }
+                        else
+                        {
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white" width="7%"> </td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td class="br-white"></td>
+                                <td width="10%"></td>
+                            </tr>
+ }
+                    }
+                    else
+                    {
+                        <tr class="tdTablas2 font-10 text-center">
+                            <td class="br-white" colspan="10" style="font-size: 6em; color: black; z-index: 9999; font-family: Vegur, 'PT Sans', Verdana, Sans-serif; ">Esta asociada no tiene clientes finales activos</td>
+                        </tr>
+}
+
+                </table>
+            </div>
+        </div>
+        @if (ViewBag.ClientesFinales.Count > 25 && ViewBag.ClientesFinales.Count < 35)
+        {
+            <div class="saltopagina pb-5"></div>}
+
+        @if (ViewBag.ClientesPP.Count > 0)
+        {
+            <div class="row mt-4">
+                <div class="col-12">
+                    <table width="100%">
+
+                        <tr class="titleRosa">
+                            <td colspan="8">DISPOSICIONES DE LA LÍNEA DE CREDITO</td>
+                        </tr>
+                        <tr class="CapVerde text-center">
+                            <td>No.Crédito</td>
+                            <td>Tipo</td>
+                            <td>Fecha de activación</td>
+                            <td>Número de Pagos</td>
+                            <td>$Importe</td>
+                            <td>Fecha Pago</td>
+                            <td>Saldo Actual</td>
+                            <td>Monto Pago</td>
+                        </tr>
+                        @foreach (var item in ViewBag.ClientesPP)
+                        {
+                            <tr class="tdTablas2 font-10 text-center">
+                                <td class="br-white">@item.ID_PRESTAMO</td>
+                                <td class="br-white">@item.TIPO</td>
+                                <td class="br-white">@item.FECHA_ACTIVADO</td>
+                                <td class="br-white">@item.NUM_PAGO/@item.NUM_PAGOS</td>
+                                <td class="br-white">$@String.Format("{0:n}", float.Parse(item.IMPORTE))</td>
+                                <td class="br-white">@item.FECHA_PAGO</td>
+                                <td class="br-white">$@String.Format("{0:n}", float.Parse(item.SALDO_ACTUAL))</td>
+                                <td>$@String.Format("{0:n}", float.Parse(item.MONTO_PAGO))</td>
+                            </tr>
+}
+
+                        <tr class="text-center">
+                            <td colspan="4" class="CapVerde font-16">Monto Acumulado Contingencia</td>
+                            <td colspan="4" class="tdTablas2 bt-white font-10">$ @String.Format("{0:n}", float.Parse(Model.MONTO_CONTINGENCIA))</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>}
+        @if ((ViewBag.ClientesFinales.Count > 13 && ViewBag.ClientesFinales.Count < 25) && ViewBag.ClientesPP.Count > 0)
+        {
+            <div class="saltopagina pb-5"></div>}
+
+        <div class="row mt-4">
+            <div class="col-12">
+                <table width="100%">
+                    <tr class="CapVerde text-center">
+                        <td colspan="4">Seguros</td>
+                    </tr>
+                    <tr class="CapVerde text-center">
+                        <td>Nombre de la Distribuidora</td>
+                        <td>Tipo</td>
+                        <td>Número de Póliza</td>
+                        <td>Importe</td>
+                    </tr>
+                    <tr class="tdTablas2 font-10">
+                        @if (Model.TOTAL_SEG != "0")
+                        {
+                            <td class="br-white pl-2">@Model.NOMBRE_SEGURO</td>
+                            <td class="br-white text-center">SEGUROS</td>
+                            <td class="br-white text-center">@Model.POLIZA</td>
+                            <td class="text-right pr-2">$@String.Format("{0:n}", float.Parse(Model.TOTAL_SEG))</td>
+ }
+                        else
+                        {
+                            <td colspan="4"><p style="font-size: 7em; color: red; font-family: Vegur, 'PT Sans', Verdana, Sans-serif;">Esta relación no se puede imprimir,debido a que no cuenta con seguro,levante ticket</p></td>
+}
+
+                    </tr>
+                    <tr class="bt-white bg_gris font-19">
+                        <td class="br-white"></td>
+                        <td class="br-white"></td>
+                        <td class="br-white"></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        @if ((ViewBag.ClientesFinales.Count > 13 && ViewBag.ClientesFinales.Count < 25) && ViewBag.ClientesPP.Count == 0 && Model.TOTAL_SEG != "0")
+        {
+            <div class="saltopagina pb-5"></div>}
+        <div class="row mt-3">
+            <div class="col-12">
+                <table width="100%">
+                    <tr>
+                        <td class="align-top" width="70%">
+                            <table width="100%">
+                                <tr class="CapVerde text-center">
+                                    <td>% Bonificación</td>
+                                    <td>$ Bonificación</td>
+                                    <td>Día a depositar</td>
+                                    <td>Importe</td>
+                                </tr>
+                                @if (ViewBag.Bonificacion.Count != 1)
+                                {
+                                    foreach (var item in ViewBag.Bonificacion)
+                                    {
+                                        foreach (var item1 in ViewBag.BonificacionMontos)
+                                        {
+                                            if (@item.ESQUEMA == item1.ESQUEMA)
+                                            {
+
+                                                if (item1.ESQUEMA == "BONIFICACIÓN 0")
+                                                {
+                                                    <tr class="tdTablas2 font-11 text-center" style="background:red">
+                                                        <td class="br-white" colspan="3"> <span style="color:#ffffff;"><b>P A G O &nbsp;&nbsp;&nbsp;T A R D I O</b></span> </td>
+                                                        @*<td class="br-white"><span style="color:#ffffff;"> <b> @Convert.ToDateTime(item.DIAS_H).ToString("dd/MM/yyyy")</b></span></td>*@
+                                                        <td>
+                                                            <span style="color:#ffffff;">
+                                                                <b>
+                                                                    $@String.Format("{0:n}",
+
+                                                                                       float.Parse(item1.MONTO_PAGO) < 0 ? 0 : float.Parse(item1.MONTO_PAGO))
+                                                                </b>
+                                                            </span>
+                                                        </td>
+                                                    </tr>
+ }
+                                                else
+                                                {
+                                                    <tr class="tdTablas2 font-11 text-center">
+                                                        <td class="br-white">@item.PORCENTAJE</td>
+                                                        <td class="br-white">$@String.Format("{0:n}", item1.MONTO_BONIFICACION)</td>
+                                                        <td class="br-white">@Convert.ToDateTime(item.DIAS_H).ToString("dd/MM/yyyy")</td>
+                                                        <td>
+                                                            $@String.Format("{0:n}",
+
+                                                                       float.Parse(item1.MONTO_PAGO) < 0 ? 0 : float.Parse(item1.MONTO_PAGO))
+
+                                                        </td>
+
+                                                    </tr>
+ }
+
+
+                                                if (item.ESQUEMA == "BONIFICACIÓN 1")
+                                                {
+                                                    ViewBag.bonificacionMin = 0;
+                                                    ViewBag.bonificacionMin = @item1.MONTO_BONIFICACION;
+                                                }
+                                            }
+
+                                            //ViewBag.bonificacionMin = 0;
+                                            //ViewBag.bonificacionMin = @item1.MONTO_BONIFICACION;
+                                        }
+                                    }
+                                }
+                                else
+                                {
+                                    <tr class="tdTablas2 font-11 text-center">
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td></td>
+
+                                    </tr>
+                                    <tr class="tdTablas2 font-11 text-center">
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td></td>
+
+                                    </tr>
+                                    <tr class="tdTablas2 font-11 text-center">
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td></td>
+
+                                    </tr>
+                                    <tr class="tdTablas2 font-11 text-center">
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td></td>
+
+                                    </tr>
+                                    <tr class="tdTablas2 font-11 text-center">
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td class="br-white"></td>
+                                        <td></td>
+
+                                    </tr>
+ViewBag.bonificacionMin = 0;
+                                }
+                            </table>
+                        </td>
+                        <td>
+                            <table width="100%" class="font-11">
+                                <tr>
+                                    <td class="text-right">Saldo Vencido</td>
+                                    <td class="tdTablas3 pl-3">
+                                        $@String.Format("{0:n}", Model.SALDO_VENCIDO)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">+ Cargo pago tardío</td>
+                                    <td class="tdTablas3 pl-3">$@String.Format("{0:n}", Model.CARGO_TARDIO)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">+ Total a cobrar</td>
+                                    <td class="tdTablas3 pl-3">$@String.Format("{0:n}", Model.TOTAL_COBRAR)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">- Bonificación</td>
+                                    <td class="tdTablas3 pl-3">$@String.Format("{0:n}", ViewBag.bonificacionMin)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">- Saldo a favor</td>
+                                    <td class="tdTablas3 pl-3">$@String.Format("{0:n}", Model.SALDO_FAVOR)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">+ Cobro seguros</td>
+                                    <td class="tdTablas3 pl-3">$@String.Format("{0:n}", Model.TOTALSEG)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">+ Otros</td>
+                                    <td class="tdTablas3 pl-3">
+                                        $@String.Format("{0:n}", Model.SUBTIPOMONTOPAGO)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="text-right">- Bonificación otros</td>
+                                    <td class="tdTablas3 pl-3">$@String.Format("{0:n}", Model.SUBTIPOMONTOBONIFICACION)</td>
+                                </tr>
+                                <tr>
+                                    @{ ViewBag.Total_Pagar = 0;
+                                        ViewBag.Total_Pagar = (Model.TOTAL_COBRAR
+                                                             - ViewBag.bonificacionMin
+                                                             - Model.SALDO_FAVOR
+                                                             + Model.TOTALSEG
+                                                             + Model.SALDO_VENCIDO
+                                                             + Model.CARGO_TARDIO
+                                                             + Model.SUBTIPOMONTOPAGO
+                                                             - Model.SUBTIPOMONTOBONIFICACION); }
+                                    <td class="text-right"><b>Total a Depositar</b></td>
+                                    <td class="tdTablas3 pl-3">
+                                        <b>
+                                            $@String.Format("{0:n}", ViewBag.Total_Pagar < 0 ? 0 : ViewBag.Total_Pagar)
+                                        </b>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        @if ((ViewBag.ClientesFinales.Count > 7 && ViewBag.ClientesFinales.Count < 14) && ViewBag.ClientesPP.Count > 0 && Model.TOTAL_SEG != "0")
+        {
+            <div class="saltopagina pb-5"></div>}
+        <div class="row">
+            <div class="col-12">
+                <center>
+                    <table width="90%">
+                        <tr>
+                            <td width="10%" class="CapVerde text-center">Distribuidora</td>
+                            <td colspan="4" class="tdTablas2 pl-3 font-10">@Model.NOMBRE_COMPLETO</td>
+                        </tr>
+                        <tr>
+                            <td width="10%" class="CapVerde text-center">Referencia</td>
+                            <td colspan="4" class="tdTablas2 pl-3 font-11">@Model.REFERENCIA</td>
+                        </tr>
+                        <tr>
+                            <td colspan="5" class="CapVerde font-12 text-center" style="border-bottom: 1px solid #ffffff">
+                                Datos Bancarios
+                            </td>
+                        </tr>
+                    </table>
+                    <table width="90%">
+                        <tr class=" font-9 text-center">
+                            <td class="recomendados" colspan="2">
+                                <div style="font-size: 12px"><b>RECOMENDADOS</b></div>
+                            </td>
+                            <td style="border-left: 2px solid black"></td>
+                        </tr>
+                        <tr class="tdTablas2 font-9 text-center">
+                            <td width="20%" class="recomendados2">
+                                <div style="font-size: 12px">
+                                    <b> Deposito vía Transferencia Electrónica</b>
+                                </div>
+                                <div style="font-size: 12px"><b>@Model.STP</b></div>
+                            </td>
+                            <td width="20%" class="recomendados3">
+                                <div style="font-size: 12px"><b>BBVA Bancomer CIE 002287439</b></div>
+                                <div style="font-size: 12px"><b>@Model.REFERENCIA</b></div>
+                            </td>
+                            <td width="20%" class="br-white">
+                                <div>Banamex</div>
+                                <div>575 4995558</div>
+                            </td>
+                            <td width="20%" class="br-white">
+                                <div>Santander</div>
+                                <div>92001153543</div>
+                            </td>
+                            <td width="20%" class="br-white">
+                                <div>Banorte CIE 49431</div>
+                                <div>@Model.REFERENCIA</div>
+                            </td>
+
+                        </tr>
+                    </table>
+                </center>
+
+            </div>
+        </div>
+        <br>
+        <div class="row mt-1 text-center">
+            <div class="col-12 text-center">
+                <center>
+                    <table width="90%">
+                        <tr class=" tdTablas22 font-9 text-center">
+                            <td ></td>
+                            <td  colspan="5" >
+                                <div style="font-size: 12px"><b>Paga con el código de barras PayCash en los siguientes comercios:</b></div>
+                            </td>
+
+                        </tr>
+                        <tr class="tdTablas22 font-9 text-center">
+
+                            <td class="text-center" width="40%">
+                                <br >
+                                <img src="~/Images/PG/paycash-icon.png" height="30" width="80" />
+                                <img src="@String.Format("data:image/png;base64,{0}", Convert.ToBase64String(@ViewBag.BytesCodigoBarrasPAYCASH))" height="60px" />
+                                <p></p>
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/aurera.png" height="30" width="80" />
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/walmart.jpg" height="30" width="80" />
+
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/soriana.png" height="40" width="80" />
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/telecomm.png" height="30" width="80" />
+                            </td>
+                            <td class="text-center"width="10%">
+                                <img src="~/Images/PG/circle.png" height="30" width="80" />
+                            </td>
+
+                        </tr>
+                        <tr><td class="text-center" colspan="6"><b>DEEHOCK SAPI DE CV</b></td></tr>
+                    </table>
+                </center>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-12 text-center font-9">
+                <p>Estimada Distribuidora para consultar información sobre comisiones, aclaraciones, consultas y reclamaciones, ponemos a disposición los medios de contacto de la Unidad Especializada de Atención a Usuarios (UNE):Correo electrónico a nivel nacional: atencionaclientes@creciendo.com.mx Teléfonos de contacto a nivel nacional: (55) 5203 3333 Ext. 1037 / 800 227 3243 Horario de atención: Lunes a viernes de 9:00 a.m. a 6:00 p.m</p>
+                <p><b>Nota: Para que tu depósito sea considerado “MISMO DÍA” deberás realizarlo en ventanilla bancaria o cajero inteligente antes de las 18:00 hrs. Recuerda poner claramente la referencia en tu depósito.Todo depósito realizado sábados, domingos y días festivos será considerado el siguiente día hábil.</b></p>
+            </div>
+        </div>
+
+    </div>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+</body>
+</html>
