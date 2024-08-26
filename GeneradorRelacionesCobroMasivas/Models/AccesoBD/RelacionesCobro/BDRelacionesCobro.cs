@@ -479,5 +479,61 @@ namespace CREC_MVC.Models.AccesoBD.RelacionesCobro
             }
             return rs;
         }
+        public string ObtenerPromociones(int idPrestamo, DateTime Fecha_Corte)
+        {
+            var con = new SqlConnection(ConfigurationManager.ConnectionStrings["DB"].ConnectionString);
+            string rs = "";
+            try
+            {
+                con.Open();
+                var cmd = new SqlCommand(qRelacionesCobroController.promociones, con);
+                cmd.Parameters.AddWithValue("@ID_PRESTAMO", idPrestamo);
+                cmd.Parameters.AddWithValue("@FECHA_CORTE", Fecha_Corte);
+                using (var rd = cmd.ExecuteReader())
+                {
+                    while (rd.Read())
+
+                        rs = rd.IsDBNull(rd.GetOrdinal("PROMOCIONES")) ? "" : Convert.ToString(rd["PROMOCIONES"]);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                rs = ex.Message;
+            }
+            finally
+            {
+                con.Close();
+            }
+            return rs;
+        }
+        public string ObtenerImagen(int idPrestamo, DateTime Fecha_Corte)
+        {
+            var con = new SqlConnection(ConfigurationManager.ConnectionStrings["DB"].ConnectionString);
+            string rs = "";
+            try
+            {
+                con.Open();
+                var cmd = new SqlCommand(qRelacionesCobroController.imagen, con);
+                cmd.Parameters.AddWithValue("@ID_PRESTAMO", idPrestamo);
+                cmd.Parameters.AddWithValue("@FECHA_CORTE", Fecha_Corte);
+                using (var rd = cmd.ExecuteReader())
+                {
+                    while (rd.Read())
+
+                        rs = rd.IsDBNull(rd.GetOrdinal("IMAGEN")) ? "" : Convert.ToString(rd["IMAGEN"]);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                rs = ex.Message;
+            }
+            finally
+            {
+                con.Close();
+            }
+            return rs;
+        }
     }
 }

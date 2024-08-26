@@ -1,5 +1,4 @@
-﻿
-<div>
+﻿<div>
     <div class="row">
         <table width="100%">
             <tr>
@@ -31,7 +30,7 @@
             <table width="100%">
                 <tr>
                     <td class="titleRosa" colspan="2">DATOS DE LA DISTRIBUIDORA</td>
-                    <td rowspan="5" class="text-center"><img src="~/Images/PG/Niveles/Nivel_Prestagana.jpg" width="180px" /></td>
+                    <td rowspan="5" class="text-center"><img src="~/Images/PG/Niveles/@ViewBag.Nivel" width="180px" /></td>
                 </tr>
                 <tr>
                     <td width="40%" class="tdTablas br">
@@ -42,6 +41,7 @@
                         <div class="dvTexto">Número</div>
                         <div class="rsTexto">@Model.ID_PRESTAMO</div>
                     </td>
+
                 </tr>
                 <tr class="bt">
                     <td width="60%" class="tdTablas br">
@@ -111,6 +111,7 @@
     </div>
     <div class="row mt-4">
         <div class="col-12">
+
             <table width="100%">
                 <tr class="titleRosa">
                     <td colspan="10">DETALLES DE CLIENTES FINALES</td>
@@ -129,10 +130,13 @@
                 </tr>
 
 
+
                 @if (ViewBag.ClientesFinales.Count > 0)
                 {
+
                     foreach (var item in ViewBag.ClientesFinales)
                     {
+
                         <tr class="tdTablas2 font-10 text-center">
                             <td class="br-white" width="7%">@item.ID_PRESTAMO </td>
                             <td class="br-white">@item.NOMBRE</td>
@@ -140,7 +144,7 @@
                             <td class="br-white">@item.FECHA_ACTIVADO</td>
                             <td class="br-white">@item.NUM_PAGO/@item.NUM_PAGOS</td>
                             <td class="br-white">$@String.Format("{0:n}", float.Parse(item.MONTO_PRESTAMO))</td>
-                            <td class="br-white">$@String.Format("{0:n}", item.SALDO_ACTUAL)</td>
+                            <td class="br-white">$@String.Format("{0:n}", float.Parse(item.SALDO_ACTUAL))</td>
                             <td class="br-white">$@String.Format("{0:n}", float.Parse(item.MONTO_SEGURO))</td>
                             <td class="br-white">$@String.Format("{0:n}", float.Parse(item.MONTO_PAGO))</td>
                             <td width="10%"></td>
@@ -255,6 +259,15 @@
                         <td class="br-white" colspan="10" style="font-size: 6em; color: black; z-index: 9999; font-family: Vegur, 'PT Sans', Verdana, Sans-serif; ">Esta asociada no tiene clientes finales activos</td>
                     </tr>
                 }
+                <tr class="tdTablas2 font-10 text-center">
+                    <td class="br-white" colspan="4">TOTAL CLIENTES FINALES: </td>
+                    <td class="br-white">@ViewBag.ClientesFinales.Count</td>
+                    <td class="br-white"></td>
+                    <td class="br-white">$@String.Format("{0:n}", @ViewBag.TotalMontoPrestamo)</td>
+                    <td class="br-white">$@String.Format("{0:n}", @ViewBag.TotalSeguro)</td>
+                    <td class="br-white">$@String.Format("{0:n}", @ViewBag.TotalPago)</td>
+                    <td class="br-white"></td>
+                </tr>
 
             </table>
         </div>
@@ -296,10 +309,10 @@
                         </tr>
                     }
 
-                    <tr class="text-center">
-                        <td colspan="4" class="CapVerde font-16">Monto Acumulado Contingencia</td>
-                        <td colspan="4" class="tdTablas2 bt-white font-10">$ @String.Format("{0:n}", float.Parse(Model.MONTO_CONTINGENCIA))</td>
-                    </tr>
+                    @*<tr class="text-center">
+                            <td colspan="4" class="CapVerde font-16">Monto Acumulado Contingencia</td>
+                            <td colspan="4" class="tdTablas2 bt-white font-10">$ @String.Format("{0:n}", float.Parse(Model.MONTO_CONTINGENCIA))</td>
+                        </tr>*@
 
                 </table>
             </div>
@@ -488,32 +501,19 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td class="text-right">- Bonificación otros</td>
-                                <td class="tdTablas3 pl-3">$@String.Format("{0:n}", Model.SUBTIPOMONTOBONIFICACION)</td>
+                                <td class="text-right">- Promociones</td>
+                                <td class="tdTablas3 pl-3">$@String.Format("{0:n}", ViewBag.Promociones)</td>
                             </tr>
                             <tr>
                                 @{ ViewBag.Total_Pagar = 0;
-                                    try
-                                    {
-                                        ViewBag.Total_Pagar = (Model.TOTAL_COBRAR
-                                                             - ViewBag.bonificacionMin
-                                                             - Model.SALDO_FAVOR
-                                                             + Model.TOTALSEG
-                                                             + Model.SALDO_VENCIDO
-                                                             + Model.CARGO_TARDIO
-                                                             + Model.SUBTIPOMONTOPAGO
-                                                             - Model.SUBTIPOMONTOBONIFICACION);
-
-                                    }
-                                    catch (Exception ex)
-                                    {
-                                        ViewBag.Total_Pagar = 0;
-                                    }
-                                }
-
-
-
-
+                                    ViewBag.Total_Pagar = (Model.TOTAL_COBRAR
+                                                         - ViewBag.bonificacionMin
+                                                         - Model.SALDO_FAVOR
+                                                         + Model.TOTALSEG
+                                                         + Model.SALDO_VENCIDO
+                                                         + Model.CARGO_TARDIO
+                                                         + Model.SUBTIPOMONTOPAGO
+                                                         - ViewBag.Promociones); }
                                 <td class="text-right"><b>Total a Depositar</b></td>
                                 <td class="tdTablas3 pl-3">
                                     <b>
@@ -543,7 +543,7 @@
                         <td colspan="4" class="tdTablas2 pl-3 font-11">@Model.REFERENCIA</td>
                     </tr>
                     <tr>
-                        <td colspan="5" class="CapVerde font-12 text-center">
+                        <td colspan="5" class="CapVerde font-12 text-center" style="border-bottom: 1px solid #ffffff">
                             Datos Bancarios
                         </td>
                     </tr>
@@ -596,6 +596,48 @@
     <br>
     <p style="text-align:center"><b>DEEHOCK SAPI DE CV</b></p>
 
+    @*<div class="row mt-1 text-center">
+            <div class="col-12 text-center">
+                <center>
+                    <table width="90%">
+                        <tr class=" tdTablas22 font-9 text-center">
+                            <td ></td>
+                            <td  colspan="5" >
+                                <div style="font-size: 12px"><b>Paga con el código de barras PayCash en los siguientes comercios:</b></div>
+                            </td>
+
+                        </tr>
+                        <tr class="tdTablas22 font-9 text-center">
+
+                            <td class="text-center" width="40%">
+                                <br >
+                                <img src="~/Images/PG/paycash-icon.png" height="30" width="80" />
+                                <img src="@String.Format("data:image/png;base64,{0}", Convert.ToBase64String(@ViewBag.BytesCodigoBarrasPAYCASH))" height="60px" />
+                                <p></p>
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/aurera.png" height="30" width="80" />
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/walmart.jpg" height="30" width="80" />
+
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/soriana.png" height="40" width="80" />
+                            </td>
+                            <td class="text-center" width="10%">
+                                <img src="~/Images/PG/telecomm.png" height="30" width="80" />
+                            </td>
+                            <td class="text-center"width="10%">
+                                <img src="~/Images/PG/circle.png" height="30" width="80" />
+                            </td>
+
+                        </tr>
+                        <tr><td class="text-center" colspan="6"><b>DEEHOCK SAPI DE CV</b></td></tr>
+                    </table>
+                </center>
+            </div>
+        </div>*@
     <div class="row mt-4">
         <div class="col-12 text-center font-9">
             <p>Estimada Distribuidora para consultar información sobre comisiones, aclaraciones, consultas y reclamaciones, ponemos a disposición los medios de contacto de la Unidad Especializada de Atención a Usuarios (UNE):Correo electrónico a nivel nacional: atencionaclientes@creciendo.com.mx Teléfonos de contacto a nivel nacional: (55) 5203 3333 Ext. 1037 / 800 227 3243 Horario de atención: Lunes a viernes de 9:00 a.m. a 6:00 p.m</p>

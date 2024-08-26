@@ -12,6 +12,7 @@ using ZXing.Common;
 using ZXing;
 using ZXing.Rendering;
 using Microsoft.Ajax.Utilities;
+using System.Linq;
 
 namespace GeneradorRelacionesCobroMasivas.Controllers
 {
@@ -70,10 +71,21 @@ namespace GeneradorRelacionesCobroMasivas.Controllers
                 List<EClientesPP> PP = bd.ConsultaPP(ID_PRESTAMO, FechaCorte);
                 List<EBonificacion> Bonificacion = bd.ConsultaBonificacion(ID_PRESTAMO, FechaCorte);
                 List<EBonificacion> BonificacionMontos = bd.ConsultaMontosBonificacion(ID_PRESTAMO, FechaCorte);
+                string promociones = bd.ObtenerPromociones(ID_PRESTAMO, FechaCorte);
+                decimal promo = Convert.ToDecimal(promociones);
+                string nivel = bd.ObtenerImagen(ID_PRESTAMO, FechaCorte);
+                decimal totalMontoPrestamo = CF.Sum(clienteFinal => decimal.Parse(clienteFinal.SALDO_ACTUAL));
+                decimal seguro = CF.Sum(seguroFinal => decimal.Parse(seguroFinal.MONTO_SEGURO));
+                decimal pago = CF.Sum(pagoFinal => decimal.Parse(pagoFinal.MONTO_PAGO));
                 ViewBag.ClientesFinales = CF;
                 ViewBag.ClientesPP = PP;
                 ViewBag.Bonificacion = Bonificacion;
                 ViewBag.BonificacionMontos = BonificacionMontos;
+                ViewBag.TotalMontoPrestamo = totalMontoPrestamo;
+                ViewBag.TotalSeguro = seguro;
+                ViewBag.TotalPago = pago;
+                ViewBag.Promociones = promo;
+                ViewBag.Nivel = nivel;
                 //ViewBag.BytesCodigoBarrasOXXO = ObtenerCodigoBarras(Regex.Replace(cliente.CodBar, @"\s", ""), 120, 70);
                 ViewBag.BytesCodigoBarrasPAYCASH = ObtenerCodigoBarras(cliente.PayCash, 120, 80);
                 return PartialView(cliente);
@@ -97,10 +109,22 @@ namespace GeneradorRelacionesCobroMasivas.Controllers
                 List<EClientesPP> PP = bd.ConsultaPP(ID_PRESTAMO, FechaCorte);
                 List<EBonificacion> Bonificacion = bd.ConsultaBonificacion(ID_PRESTAMO, FechaCorte);
                 List<EBonificacion> BonificacionMontos = bd.ConsultaMontosBonificacion(ID_PRESTAMO, FechaCorte);
+                string promociones = bd.ObtenerPromociones(ID_PRESTAMO, FechaCorte);
+                decimal promo = Convert.ToDecimal(promociones);
+                string nivel = bd.ObtenerImagen(ID_PRESTAMO, FechaCorte);
+                decimal totalMontoPrestamo = CF.Sum(clienteFinal => decimal.Parse(clienteFinal.SALDO_ACTUAL));
+                decimal seguro = CF.Sum(seguroFinal => decimal.Parse(seguroFinal.MONTO_SEGURO));
+                decimal pago = CF.Sum(pagoFinal => decimal.Parse(pagoFinal.MONTO_PAGO));
+                //decimal monto = 
                 ViewBag.ClientesFinales = CF;
                 ViewBag.ClientesPP = PP;
                 ViewBag.Bonificacion = Bonificacion;
                 ViewBag.BonificacionMontos = BonificacionMontos;
+                ViewBag.TotalMontoPrestamo = totalMontoPrestamo;
+                ViewBag.TotalSeguro = seguro;
+                ViewBag.TotalPago = pago;
+                ViewBag.Promociones = promo;
+                ViewBag.Nivel = nivel;
                 //ViewBag.BytesCodigoBarrasOXXO = ObtenerCodigoBarras(Regex.Replace(cliente.CodBar, @"\s", ""), 120, 80);
                 ViewBag.BytesCodigoBarrasPAYCASH = ObtenerCodigoBarras(cliente.PayCash, 120, 80);
                 return new ViewAsPdf(cliente);
