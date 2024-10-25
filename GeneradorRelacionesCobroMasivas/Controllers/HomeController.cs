@@ -31,6 +31,11 @@ namespace GeneradorRelacionesCobroMasivas.Controllers
             string rs = "";
             string NomArchivo = "/PDF/RelacionesDeCobro_" + NOMBRE_SUCURSAL + "_" + COORDINACION + ".pdf";
             string FechaCorte = bd.GetFechaCorte();
+            DateTime FechaCorte1 = DateTime.Parse(FechaCorte);  // Convertir string a DateTime
+            string formattedFechaCorte = FechaCorte1.ToString("dd_MM_yyyy");  // Formato dd_MM_yyyy
+
+            // Definir la ruta de la carpeta
+            string folderPath = "E:/RC/" + formattedFechaCorte;
             ERelaciones r = new ERelaciones();
 
             try
@@ -38,10 +43,16 @@ namespace GeneradorRelacionesCobroMasivas.Controllers
                 List<ERelaciones> listAsociadas = bd.GetAsociadas(ID_SUCURSAL, COORDINACION);
                 numAsociadas = listAsociadas.Count;
                 bd.ActualizaEstatusRegistro(NomArchivo, ID_SUCURSAL, numAsociadas, FechaCorte);
+
+                if (!Directory.Exists(folderPath))
+                {
+                    Directory.CreateDirectory(folderPath);
+                }
+
                 foreach (var item in listAsociadas)
                 {
 
-                    GetPDF(item.ID_ASOCIADA, item.NOMBRE_ASOCIADA, NOMBRE_SUCURSAL, COORDINACION);
+                    GetPDF(item.ID_ASOCIADA, item.NOMBRE_ASOCIADA, NOMBRE_SUCURSAL, COORDINACION, folderPath);
 
                 }
                 rs = bd.ActualizaEstatusRegistro(NomArchivo, ID_SUCURSAL, numAsociadas, FechaCorte);
@@ -225,10 +236,10 @@ namespace GeneradorRelacionesCobroMasivas.Controllers
 
                 //    return byteArray;
                 //} 
-            public ActionResult GetPDF(int ID_ASOCIADA,string NOMBRE_ASOCIADA, string NOMBRE_SUCURSAL, string COORDINACION)
+            public ActionResult GetPDF(int ID_ASOCIADA,string NOMBRE_ASOCIADA, string NOMBRE_SUCURSAL, string COORDINACION, string PATH)
             {
             string fileName = "RelacionesDeCobro_" +  ID_ASOCIADA + ".pdf";
-            string fullPath = @"C:\Asociadas\" + fileName;
+            string fullPath = Path.Combine(PATH, fileName);
 
             //var strNJson = new
             //{
@@ -251,12 +262,15 @@ namespace GeneradorRelacionesCobroMasivas.Controllers
 
         };
 
-            if (!System.IO.File.Exists(fullPath))
+            if (System.IO.File.Exists(fullPath))
             {
-                var byteArray = report.BuildFile(ControllerContext);
-                var fileStream = new FileStream(fullPath, FileMode.Create, FileAccess.Write);
+                System.IO.File.Delete(fullPath); // Elimina el archivo si existe
+            }
+
+            var byteArray = report.BuildPdf(ControllerContext);
+            using (var fileStream = new FileStream(fullPath, FileMode.Create, FileAccess.Write))
+            {
                 fileStream.Write(byteArray, 0, byteArray.Length);
-                fileStream.Close();
             }
             return report;
         }
