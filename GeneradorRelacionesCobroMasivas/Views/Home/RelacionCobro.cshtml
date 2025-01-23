@@ -27,13 +27,13 @@
 
     <div class="row mt-2">
         <div class="col-12">
-            <table width="100%">
+            <table width="100%" style="table-layout: fixed;">
                 <tr>
-                    <td class="titleRosa" colspan="2">DATOS DE LA DISTRIBUIDORA</td>
-                    <td rowspan="5" class="text-center"><img src="~/Images/PG/Niveles/@ViewBag.Nivel" width="180px" /></td>
+                    <td class="titleRosa" colspan="3">DATOS DE LA DISTRIBUIDORA</td>
+                    <td rowspan="4" class="text-center"><img src="~/Images/PG/Niveles/@ViewBag.Nivel" width="180px" height="160px" /></td>
                 </tr>
                 <tr>
-                    <td width="40%" class="tdTablas br">
+                    <td width="40%" class="tdTablas br" colspan="2">
                         <div class="dvTexto">Nombre</div>
                         <div class="rsTexto">@Model.NOMBRE_COMPLETO</div>
                     </td>
@@ -44,17 +44,17 @@
 
                 </tr>
                 <tr class="bt">
-                    <td width="60%" class="tdTablas br">
-                        <div class="dvTexto">Vencimiento de Línea</div>
-                        <div class="rsTexto">@Model.ULTIMO_PAGO</div>
+                    <td width="60%" class="tdTablas br" colspan="2">
+                        <div class="dvTexto">Sucursal</div>
+                        <div class="rsTexto">@Model.NOMBRE_SUCURSAL</div>
                     </td>
-                    <td class="tdTablas">
+                    <td class="tdTablas" width="20">
                         <div class="dvTexto">Promedio de colocación mensual</div>
                         <div class="rsTexto">$ @String.Format("{0:n}", float.Parse(Model.PROMEDIO))</div>
                     </td>
                 </tr>
                 <tr class="bt">
-                    <td width="60%" class="tdTablas br">
+                    <td width="20%" class="tdTablas br ">
                         <div class="dvTexto">
                             Fecha de activación de la Distribuidora
                         </div>
@@ -62,29 +62,21 @@
                             @Model.FECHA_ACTIVADO
                         </div>
                     </td>
-                    <td class="tdTablas">
-                        <div class="dvTexto">Fecha límite de pago</div>
-                        <div class="rsTexto">
-                            @Model.FECHA_LIMIT
-                        </div>
-                    </td>
-                </tr>
-                <tr class="bt">
-                    <td width="60%" class="tdTablas br">
-                        <div class="dvTexto">
-                            Sucursal
-                        </div>
-                        <div class="rsTexto">
-                            @Model.NOMBRE_SUCURSAL
-                        </div>
-                    </td>
-                    <td class="tdTablas">
+                    <td class="tdTablas br">
                         <div class="dvTexto">Fecha de corte</div>
                         <div class="rsTexto">
                             @Convert.ToDateTime(Model.FECHACORTE).ToString("dd/MM/yyyy")
                         </div>
                     </td>
+                    <td width="20%" class="tdTablas ">
+                        <div class="dvTexto">Fecha límite de pago</div>
+                        <div class="rsTexto">
+                            @Model.FECHA_LIMIT
+                        </div>
+                    </td>
+
                 </tr>
+
 
             </table>
         </div>
