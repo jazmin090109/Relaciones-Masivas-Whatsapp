@@ -34,6 +34,7 @@ namespace CREC_MVC.Models.AccesoBD.RelacionesCobro
                             B = rd.IsDBNull(rd.GetOrdinal("B")) ? 0 : Convert.ToInt16(rd["B"]),
                             C = rd.IsDBNull(rd.GetOrdinal("C")) ? 0 : Convert.ToInt16(rd["C"]),
                             D = rd.IsDBNull(rd.GetOrdinal("D")) ? 0 : Convert.ToInt16(rd["D"]),
+                            G = rd.IsDBNull(rd.GetOrdinal("G")) ? 0 : Convert.ToInt16(rd["G"]),
                             CORD_VACANTE = rd.IsDBNull(rd.GetOrdinal("CORD_VACANTE")) ? 0 : Convert.ToInt16(rd["CORD_VACANTE"])
                         });
 

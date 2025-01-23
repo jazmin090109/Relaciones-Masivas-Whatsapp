@@ -11,6 +11,7 @@ namespace CREC_MVC.Models.Entidades.RelacionesCobro
         public int B { get; set; }
         public int C { get; set; }
         public int D { get; set; }
+        public int G { get; set; }
         public int CORD_VACANTE { get; set; }
     }
 
